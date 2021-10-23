@@ -30,8 +30,20 @@
 .list td{
     border-color: #ccc !important;
 }
-.list td div{
-    background-color: gray !important;
+.list td div[style~="background-color:#ffdab9;"]{
+    background-color: #897564 !important;
+}
+.list td div[style~="background-color:#ffd700;"]{
+    background-color: #877000 !important;
+}
+.list td div[style~="background-color:#00ff00;"]{
+    background-color: #008700 !important;
+}
+.list td div[style~="background-color:#87ceeb;"]{
+    background-color: #4E7787 !important;
+}
+.list td div[style~="background-color:#dda0dd;"]{
+    background-color: #876287 !important;
 }
 .list_status{
     border-color: #ccc !important;
