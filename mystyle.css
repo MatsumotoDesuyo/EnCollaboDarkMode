@@ -1,0 +1,77 @@
+#login{
+    background-image: none !important;
+    background-color: gray !important;
+}
+#login div{
+    color:#ddd !important;
+ }
+#container{
+    background-color: gray !important;
+    color:white !important;
+    border-color: white !important;
+}
+.org a{
+    color:black !important;
+}
+.bread td{
+    color:#eee !important;
+}
+.bread td a{
+    color:#ccc !important;
+}
+.dep_list th{
+    background-color: #444 !important;
+    border-color: #ccc !important;
+}
+.dep_list td{
+    background-color: gray !important;
+    border-color: #ccc !important;
+}
+.list td{
+    border-color: #ccc !important;
+}
+.list td div{
+    background-color: gray !important;
+}
+.list_status{
+    border-color: #ccc !important;
+}
+.form_table tr{
+    background-color: #666 !important;
+}
+.form_table td{
+    background-color: #777 !important;
+}
+.form_section{
+    background-color: #666 !important;
+}
+.list_section{
+    background-color: #666 !important;
+}
+.list_section td a{
+    color:aquamarine !important;
+}
+.ui-widget-content{
+    background-color: gray !important;
+    color:white !important;
+}
+.search_head{
+    background-image: none !important;
+    border: solid #fff !important;
+    border-width:  1px 1px 0 1px !important;
+    border-radius: 5px 5px 0 0 !important;
+}
+.search_body{
+    background-image: none !important;
+    border: solid #fff !important;
+    border-width: 0 1px !important;
+}
+.search_body th{
+    color:#eee !important;
+}
+.search_foot{
+    background-image: none !important;
+    border: solid #fff !important;
+    border-width: 0 1px 1px 1px !important;
+    border-radius: 0 0 5px 5px !important;
+}

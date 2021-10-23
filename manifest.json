@@ -1,0 +1,12 @@
+{
+    "name": "Encollabo Dark Mode",
+    "description": "Encollaboをダークモードにします。",
+    "version": "0.1",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+          "matches": ["https://saas10.encollabo.jp/*"],
+          "css": ["mystyle.css"]
+        }
+      ]
+  }
